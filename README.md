@@ -1,8 +1,7 @@
 ### Hello there
 My name is Jackson McCrory and I am university student in Canada. I am looking to be a system's administrator when I finish school in the following few years.
 
-- 🌱 I’m currently learning lua, sripting, web development and many other things.
-- 🤔 I’m looking for help with smaller projects while I learn how to code better and better.
+- 🌱 I’m currently learning lua, scripting, web development and many other things.
 
 - Email: **jackson@mccrory.xyz**
 - Website: **https://mccrory.xyz**
